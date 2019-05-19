@@ -1,4 +1,5 @@
 # Quadratic-plotter-by-me
+**see project files [here](https://sourceforge.net/projects/quadraticplotbyap/)**
 ### it plots graph of form y=ax^2+bx+c
 **you'll just need to enter some data like a,b,c,etc and plot will be ready..**
 ##### see sample(v1.1) - CUI:
